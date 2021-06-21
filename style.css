@@ -1,0 +1,152 @@
+.hr {
+  border: 2px solid black;
+  width: 40%;
+  margin-top: 200px;
+}
+
+.hr2 {
+  border: 2px solid black;
+  width: 40%;
+  margin-top: 200px;
+}
+
+.div {
+  position: absolute;
+  top: 75px;
+  left: 525px;
+  width: 2px;
+  height: 500px;
+  border: 2px solid black;
+  background-color: black;
+}
+
+.div2 {
+  position: absolute;
+  top: 75px;
+  left: 59%;
+  width: 2px;
+  height: 500px;
+  border: 2px solid black;
+  background-color: black;
+}
+
+.d1 {
+  position: absolute;
+  left: 414px;
+  top: 75px;
+  width: 110px;
+  height: 125px;
+}
+
+.d1:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.d2 {
+  position: absolute;
+  left: 531px;
+  top: 75px;
+  width: 274px;
+  height: 125px;
+}
+
+.d2:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.d3 {
+  position: absolute;
+  left: 810px;
+  top: 75px;
+  width: 145px;
+  height: 125px;
+}
+
+.d3:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.d4 {
+  position: absolute;
+  left: 410px;
+  top: 203.5px;
+  width: 115px;
+  height: 200px;
+}
+
+.d4:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.d5 {
+  position: absolute;
+  left: 531px;
+  top: 205px;
+  width: 274px;
+  height: 200px;
+}
+
+.d5:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.d6 {
+  position: absolute;
+  left: 812px;
+  top: 203.5px;
+  width: 145px;
+  height: 200px;
+}
+
+.d6:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.d7 {
+  position: absolute;
+  left: 414px;
+  top: 407px;
+  width: 110px;
+  height: 170px;
+}
+
+.d7:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.d8 {
+  position: absolute;
+  left: 531.49px;
+  top: 407px;
+  width: 274px;
+  height: 175px;
+}
+
+.d8:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.d9 {
+  position: absolute;
+  left: 812px;
+  top: 407px;
+  width: 145px;
+  height: 175px;
+}
+
+.d9:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 50px;
+}
